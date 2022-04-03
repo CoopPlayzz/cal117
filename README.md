@@ -13,9 +13,6 @@
   
   <div align="left">
     
-- Currently creating Beat Saber mods for Oculus Quest 1/2
-- Creating typescript based packages to aid [Noodle Mapping for Beat Saber](https://github.com/Aeroluna/Heck)
-- Doing it for fun, because why not?
-    
+- Something should go here right?
   </div>
 </div>  
