@@ -1,3 +1,7 @@
+<img align="center" src="https://raw.githubusercontent.com/cal117/cal117/output/github-contribution-grid-snake.svg" />
+
+<hr>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cal117&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff" />
 
 <div align="center">  
